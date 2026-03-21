@@ -13,6 +13,6 @@ go to config.json
     "ini_file_path": {"Enter your supposed ersc ersc_settings.ini location ...\\Steam\\steamapps\\common\\ELDEN RING\\Game\\SeamlessCoop\\ersc_settings.ini"}
 }
 ```
-make sure the ERSC_automanualupdater.exe also exist
+make sure the ERSC_automanualupdater.exe and local_ERSC_ver.txt also exist
 
 make ERSC_automanualupdater.exe run on startup
